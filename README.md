@@ -7,5 +7,6 @@ Few of the Apps that I built are :
 
 1. Hello Kitty
 --------------
+<img src="https://github.com/SKKSaikia/MIT-App-Inventor/blob/master/Images/kitty.jpg">
 
 [Hello Kitty Demo](https://youtu.be/RV9cvNFkv_8)
