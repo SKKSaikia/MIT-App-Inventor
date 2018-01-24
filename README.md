@@ -12,9 +12,17 @@ The basic idea for that cat to meow is, when someone touches the cat or there is
 
 <img src="https://github.com/SKKSaikia/MIT-App-Inventor/blob/master/Images/kitty.jpg">
 
-<b>1. Huk Smash</b>__ : __[Huk Smash Demo](https://youtu.be/jDMG9RiF0sc)
+<b>2. Huk Smash</b>__ : __[Huk Smash Demo](https://youtu.be/jDMG9RiF0sc)
 --------------
 
 Aka Mole smash, where the mole moves around the screen randomly and the user has to hit the mole. Score increases as the mole is touched/hit by the user, otherwise miss count increases. 
 
 <img src="https://github.com/SKKSaikia/MIT-App-Inventor/blob/master/Images/smash.jpg">
+
+
+<b>3. Coloured DOTS  4. Stock Quotes   5. Talk to me</b>
+--------------
+
+<img src="https://github.com/SKKSaikia/MIT-App-Inventor/blob/master/Images/ssa.jpg">
+
+🅼🅸🆃 🅰🅿🅿 🅸🅽🆅🅴🅽🆃🅾🆁 2
