@@ -19,10 +19,9 @@ Aka Mole smash, where the mole moves around the screen randomly and the user has
 
 <img src="https://github.com/SKKSaikia/MIT-App-Inventor/blob/master/Images/smash.jpg">
 
-
-<b>3. Coloured DOTS  4. Stock Quotes   5. Talk to me</b>
+<b>3. Coloured DOTS  _  4. Stock Quotes  _  5. Talk to me</b>
 --------------
 
 <img src="https://github.com/SKKSaikia/MIT-App-Inventor/blob/master/Images/ssa.jpg">
 
-🅼🅸🆃 🅰🅿🅿 🅸🅽🆅🅴🅽🆃🅾🆁 2
+_________________________________________________________________________________________🅼🅸🆃 🅰🅿🅿 🅸🅽🆅🅴🅽🆃🅾🆁 2
