@@ -12,5 +12,6 @@ The basic idea for that cat to meow is, when someone touches the cat or there is
 
 <img src="https://github.com/SKKSaikia/MIT-App-Inventor/blob/master/Images/kitty.jpg">
 
-<b>1. Huk Smash</b>
+<b>1. Huk Smash</b>__ : __[Huk Smash Demo](https://youtu.be/jDMG9RiF0sc)
 --------------
+<img src="https://github.com/SKKSaikia/MIT-App-Inventor/blob/master/Images/smash.jpg">
