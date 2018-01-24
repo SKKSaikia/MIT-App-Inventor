@@ -15,6 +15,6 @@ The basic idea for that cat to meow is, when someone touches the cat or there is
 <b>1. Huk Smash</b>__ : __[Huk Smash Demo](https://youtu.be/jDMG9RiF0sc)
 --------------
 
-Aka Mole smash, where the mole moves around the screen randomly and the user have to hit the mole. Score increases as the mole is touched/hit by the user, otherwise miss count increases. 
+Aka Mole smash, where the mole moves around the screen randomly and the user has to hit the mole. Score increases as the mole is touched/hit by the user, otherwise miss count increases. 
 
 <img src="https://github.com/SKKSaikia/MIT-App-Inventor/blob/master/Images/smash.jpg">
