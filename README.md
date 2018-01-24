@@ -6,7 +6,8 @@ This repository contains few of the apps that I built in <b>MIT APP Inventor 2</
 
 Few of the Apps that I built are : 
 
-1. Hello Kitty              _             [Hello Kitty Demo](https://youtu.be/RV9cvNFkv_8)
+1. Hello Kitty              _ Here is a demo that I recorded _            [Hello Kitty Demo](https://youtu.be/RV9cvNFkv_8)
 --------------
+The basic idea is for that cat to meow when someone touches the cat or there is acceleration in phone.So, breaking down the logic, the cat meows when someone touches it or there is acceleration in phone.
 <img src="https://github.com/SKKSaikia/MIT-App-Inventor/blob/master/Images/kitty.jpg">
 
